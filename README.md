@@ -1,4 +1,5 @@
-# helloworld
-First repository.
+% Readme file.
 
-I'm trying to make a change with the file.
+This is the first repository. 
+The main purpose is to learn how to use Git and github to better organize my code.
+
